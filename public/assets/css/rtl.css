@@ -1,0 +1,74 @@
+
+/*
+==============================
+RIGHT TO LEFT - RTL
+==============================
+*/
+body{
+font-family: 'Almarai', sans-serif  !important;
+}
+header a{
+    font-family: 'Almarai', sans-serif   !important;
+    font-size: 14px;
+}
+h2,
+h3,
+h1,
+h4,
+h5,
+h6,
+related-title,
+texttitle-home-3,
+p
+{
+
+   font-family: 'Almarai', sans-serif   !important;
+
+}
+
+.float-right {
+
+    float: left !important;
+
+}
+
+.entry-content{
+
+  text-align: right;
+
+}
+
+.slider-item{
+
+  text-align: right !important;
+
+}
+
+.entry-meta-content{
+
+  text-align: right !important;
+
+}
+
+.section-header {
+    text-align: right;
+}
+
+
+.cat-name {
+
+  font-family: 'Almarai', sans-serif   !important;
+
+}
+
+.content-entry-wrap{
+    
+    text-align: right !important;
+
+}
+
+.cat-item a{
+
+  font-family: 'Almarai', sans-serif   !important;
+
+}
